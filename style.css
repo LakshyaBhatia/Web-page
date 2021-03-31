@@ -1,0 +1,41 @@
+h1{
+   color: rgb(30, 64, 255);
+   font-family: "Times New Roman";
+   text-align: center;
+}
+h2{
+   font-family: 'Lucida Handwriting';
+   color: rgb(9, 255, 0);
+   text-align: center;
+}
+h3{
+   color: rgb(30, 255, 86);
+   text-align: center;
+}
+
+body {
+
+   background-color:#77092E;
+   background-image: url("background.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.main{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-evenly;
+}
+.x img{
+   padding: 40px; 
+}
+.x p{
+   margin-left: 100px;
+}
+.y p{
+   margin-left: 140px;
+}
+
+p{
+   font-family: "Papyrus";
+}
